@@ -11,6 +11,7 @@
  - [MINIMAR (MINimum Information for Medical AI Reporting): Developing reporting standards for artificial intelligence in health care](https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocaa088/5864179?redirectedFrom=fulltext)
 ### Open-Source libraries
   * NLP
+    - [Medical AI Failure Atlas (MedFailBench)](https://github.com/goktugozkanmd/medical-ai-failure-atlas) - Clinician-authored medical AI safety benchmark and SafetyGuard CLI for evaluating unsafe medical LLM responses.
     - [medaCy](https://github.com/NLPatVCU/medaCy) - Medical Text Mining and Information Extraction with spaCy.
     - [deidentify](https://github.com/nedap/deidentify) - A Python library to de-identify medical records with state-of-the-art NLP methods. Pre-trained models for the Dutch language are available.
   * Computer Vision
